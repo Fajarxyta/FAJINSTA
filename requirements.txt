@@ -1,8 +1,0 @@
-rich
-cython
-pysocks
-requests
-bs4
-pycryptodomex
-pynacl
-pyotp
