@@ -1,5 +1,5 @@
 import os, requests
-from SFInsta import Insta as Gram
+from SFInsta import insfaj as Gram
 
 if __name__ == '__main__':
 	try:os.mkdir('/sdcard/Ress')
