@@ -1,4 +1,4 @@
-# Instagram Brute Force
+# Instagram
 ```
 pip install requests
 git clone https://github.com/fajarkhfi/FAJINSTA
